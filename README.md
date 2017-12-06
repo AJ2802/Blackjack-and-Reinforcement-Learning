@@ -1,7 +1,7 @@
 # Blackjack-and-Reinforcement-Learning
 This project is to search for optimal player strategy of playing Blackjack in a 1 dealer and 1 player game.
 
-Detailed manual Instruction and notes about off policy Monte Carlo update will be uploaded later.
+Detailed manual Instruction and notes about off policy Monte Carlo algorithm on Blackjack will be uploaded later.
 
 Demonstration:
 1. Download deck.py, cardGames.py and test.py in this repository
